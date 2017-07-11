@@ -25,7 +25,7 @@ SECRET_KEY = 'fn(+ff$y4c#h4e(t10u3t@24u59=-3!*yk_4_8ar8p0*9k_o=g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'shelbyrluster.pythonanywhere.com']
 
 
 # Application definition
